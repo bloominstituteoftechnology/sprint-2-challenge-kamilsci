@@ -27,7 +27,7 @@ function booleanize(obj)
 let obj = {
   keyZero: 0,
   keyOne: 1,
-  keyNull: null,
+  keyNull: null, //delet method
   keyTwo: 2
 };
 
